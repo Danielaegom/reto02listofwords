@@ -1,1 +1,284 @@
-Differentially expressed proteins in PSP compared to HC calculated by SAMSerum amyloid A-1 proteinImmunoglobulin heavy constant alpha 2 (Fragment)HaptoglobinImmunoglobulin heavy constant gamma 4 (Fragment)Serum amyloid P-componentSequestosome-1OsteopontinAnnexin A1Protein S100-A6Tumor necrosis factor receptor superfamily member 16Transmembrane glycoprotein NMBHemoglobin subunit deltaIntercellular adhesion molecule 1Chitinase-3-like protein 1High mobility group protein HMG-I/HMG-YBand 3 anion transport proteinEMILIN-1Microtubule-associated proteinMethanethiol oxidasePhosphate carrier protein, mitochondrialCalcium-binding mitochondrial carrier protein Aralar1ATPase family AAA domain-containing protein 1Heat shock 70 kDa protein 4LCytochrome c oxidase subunit 5A, mitochondrialMitochondrial pyruvate carrier 228S ribosomal protein S2, mitochondrialFAST kinase domain-containing protein 4[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrialLeucine-rich PPR motif-containing protein, mitochondrialCytochrome b-c1 complex subunit 6, mitochondrialCytochrome c oxidase subunit 1Cytochrome c oxidase subunit 6B1Calcium-dependent secretion activator 1Cytochrome b-c1 complex subunit 8Small integral membrane protein 12LYR motif-containing protein 1SRA stem-loop-interacting RNA-binding protein, mitochondrialIron-sulfur cluster assembly enzyme ISCU, mitochondrial28S ribosomal protein S23, mitochondrialAsparagine synthetase [glutamine-hydrolyzing]Monocarboxylate transporter 4Kv channel-interacting protein 4Calcium-dependent secretion activator 1 (Fragment)FERM, ARHGEF and pleckstrin domain-containing protein 1Mammalian ependymin-related protein 1Metabotropic glutamate receptor 1Gamma-aminobutyric acid receptor subunit beta-2Gamma-aminobutyric acid receptor subunit alpha-1Apolipoprotein A-IVGap junction beta-6 protein Differentially expressed proteins in PSP compared to PD calculated by SAM (top 50) Annexin A1Sequestosome-1Protein S100-A6Intercellular adhesion molecule 1Complement C1q subcomponent subunit CHLA class II histocompatibility antigen, DR alpha chainArgininosuccinate synthaseComplement C1q subcomponent subunit BHLA class II histocompatibility antigen, DP alpha 1 chainMacrophage-capping proteinThymidine phosphorylaseProtein S100-A11High affinity immunoglobulin gamma Fc receptor IGuanylate-binding protein 1Fructose-1,6-bisphosphatase 1BAI1-associated protein 3Matrilin-2EMILIN-2Glycogen phosphorylase, liver formFermitin family homolog 3Protein NibanMicrotubule-associated proteinLong-chain fatty acid transport protein 3Proteasome activator complex subunit 2Tubulin-specific chaperone EBand 4.1-like protein 3COX assembly mitochondrial protein 2 homologGTP-binding protein Di-Ras1Cytochrome c oxidase subunit 5A, mitochondrial39S ribosomal protein L12, mitochondrialLong-chain-fatty-acid--CoA ligase 6Calcium-binding mitochondrial carrier protein Aralar1Cytochrome c oxidase subunit 7A2, mitochondrialDisintegrin and metalloproteinase domain-containing protein 22Disintegrin and metalloproteinase domain-containing protein 23Cytochrome c oxidase subunit 6B1Cytochrome b-c1 complex subunit 8Cytochrome c oxidase subunit 1BolA-like protein 3GTP-binding protein Di-Ras2Cytochrome c oxidase subunit 6CPotassium voltage-gated channel subfamily A member 1Hyaluronan and proteoglycan link protein 4Adenylate cyclase type 1Calcium-dependent secretion activator 1 (Fragment)Gamma-aminobutyric acid receptor subunit beta-2Gamma-aminobutyric acid receptor subunit alpha-1Leucine-rich repeat LGI family member 2Gap junction beta-6 proteinParvalbumin alpha Differentially expressed proteins in PD compared to HC calculated by SAM. Kallikrein-6Sodium-coupled neutral amino acid transporter 2Selenoprotein PActivin receptor type-1Pyrroline-5-carboxylate reductaseZinc finger and SCAN domain-containing protein 18High affinity immunoglobulin gamma Fc receptor IGlycogen phosphorylase, liver formN-acetylglucosamine-1-phosphotransferase subunit gammaPlexin-C1SHC-transforming protein 3Tryptophan 5-hydroxylase 2High affinity immunoglobulin epsilon receptor subunit gammaAdipogenesis regulatory factorProtein FAM107AAromatic-L-amino-acid decarboxylaseTyrosine 3-monooxygenaseSodium-dependent dopamine transporter Differentially expressed proteins in PSP compared to HC calculated by bootstrap ROC analysis High mobility group protein HMG-I/HMG-YSequestosome-1EMILIN-1Intercellular adhesion molecule 1Ras suppressor protein 1U6 snRNA-associated Sm-like protein LSm8REST corepressor 3U6 snRNA-associated Sm-like protein LSm4 (Fragment)Zinc finger CCCH domain-containing protein 18Microtubule-associated proteinRNA-binding protein 8AOsteopontinGlycophorin-CCytochrome b-c1 complex subunit 9GTP-binding protein Di-Ras1Metabotropic glutamate receptor 1Mitochondrial dicarboxylate carrierMetaxin-2Cleft lip and palate transmembrane protein 1Cytochrome b-c1 complex subunit 6, mitochondrialCOX assembly mitochondrial protein 2 homolog28S ribosomal protein S35, mitochondrialCalcium-dependent secretion activator 1Peptidyl-tRNA hydrolase ICT1, mitochondrialKv channel-interacting protein 428S ribosomal protein S9, mitochondrial39S ribosomal protein L9, mitochondrialIron-sulfur cluster assembly enzyme ISCU, mitochondrialGamma-aminobutyric acid receptor subunit alpha-1SRA stem-loop-interacting RNA-binding protein, mitochondrialHeat shock 70 kDa protein 4LElongation factor G, mitochondrialFAST kinase domain-containing protein 4Enoyl-[acyl-carrier-protein] reductase, mitochondrial39S ribosomal protein L17, mitochondrialGamma-glutamyl hydrolase39S ribosomal protein L16, mitochondrialLYR motif-containing protein 128S ribosomal protein S2, mitochondrialCalcium-dependent secretion activator 1 (Fragment)Gamma-aminobutyric acid receptor subunit beta-2Phosphate carrier protein, mitochondrial39S ribosomal protein L12, mitochondrialLeucine-rich PPR motif-containing protein, mitochondrialMitochondrial pyruvate carrier 2Cytochrome c oxidase subunit 5A, mitochondrialSmall integral membrane protein 12Mammalian ependymin-related protein 1ATPase family AAA domain-containing protein 1Cytochrome c oxidase subunit 1 Differentially expressed proteins in PSP compared to PD calculated by bootstrap ROC analysis (top 50)Fermitin family homolog 3High affinity immunoglobulin gamma Fc receptor ISequestosome-1Intercellular adhesion molecule 1Serine/threonine-protein kinase 4Poly [ADP-ribose] polymerase 9Proteasome activator complex subunit 2Protein S100-A11Argininosuccinate synthaseComplement C1q subcomponent subunit BU6 snRNA-associated Sm-like protein LSm4 (Fragment)Fructose-1,6-bisphosphatase 1Complement C1q subcomponent subunit CLamin-B1Matrilin-2Long-chain fatty acid transport protein 3Leucine-rich repeat LGI family member 2COX assembly mitochondrial protein homologUncharacterized protein C6orf136 (Fragment)Sodium- and chloride-dependent creatine transporter 1Uncharacterized protein (Accession_U3KQK5)ATPase family AAA domain-containing protein 1Solute carrier family 25 member 40Cytochrome c oxidase subunit 7A2, mitochondrialCytoglobinRap1 GTPase-GDP dissociation stimulator 1ADP/ATP translocase 2Cytochrome c oxidase subunit 1Cytochrome b-c1 complex subunit 1, mitochondrialCytochrome b-c1 complex subunit 8Hyaluronan and proteoglycan link protein 4Gamma-aminobutyric acid receptor subunit beta-2Mitochondrial import inner membrane translocase subunit Tim13ATP synthase mitochondrial F1 complex assembly factor 139S ribosomal protein L12, mitochondrialGamma-aminobutyric acid receptor subunit alpha-1Mitochondrial carrier homolog 2Tubulin-specific chaperone EMitochondrial pyruvate carrier 2Cytochrome c oxidase subunit 6CGTP-binding protein Di-Ras2GTP-binding protein Di-Ras1Disintegrin and metalloproteinase domain-containing protein 22Calcium-dependent secretion activator 1 (Fragment)Gap junction beta-6 proteinCytochrome c oxidase subunit 6B1AFG1-like ATPaseCOX assembly mitochondrial protein 2 homologLong-chain-fatty-acid--CoA ligase 6Calcium-binding mitochondrial carrier protein Aralar1 Differentially expressed proteins in PD compared to HC calculated bootstrap ROC analysisAdenylosuccinate lyaseProteasome subunit beta type-2FAD synthaseGTP-binding protein SAR1bWD repeat and FYVE domain-containing protein 2Phosphatidylinositol glycan anchor biosynthesis class U proteinActivin receptor type-1Proteasome subunit beta type-5Sodium-coupled neutral amino acid transporter 2Kallikrein-6Sestrin-1Tubulin-specific chaperone EMultiple epidermal growth factor-like domains protein 10Mitochondrial carrier homolog 2Cysteine conjugate-beta lyase cytoplasmic (Glutamine transaminase K, kyneurenine aminotransferase), isoform CRA_bATP-dependent RNA helicase DDX39AGTP-binding protein Rit1Coiled-coil domain-containing protein 47Selenoprotein PNon-homologous end-joining factor 1Ras-related protein Rab-8ARibonuclease inhibitorN-acylethanolamine-hydrolyzing acid amidaseTyrosine--tRNA ligase, cytoplasmicTransforming acidic coiled-coil-containing protein 1 (Fragment)Testican-3Peptidylprolyl isomerase domain and WD repeat-containing protein 1Phosphoglycerate mutase 1Sodium-dependent serotonin transporterHigh affinity immunoglobulin epsilon receptor subunit gammaSuperoxide dismutase [Mn], mitochondrialSHC-transforming protein 3Mesoderm-specific transcript homolog proteinUncharacterized protein KIAA1671Serine/threonine-protein kinase Nek9Golgin subfamily A member 3Ubiquitin carboxyl-terminal hydrolase 11IgGFc-binding proteinInositol polyphosphate 5-phosphatase OCRL-1N-acetylglucosamine-1-phosphotransferase subunit gammaSodium-dependent dopamine transporter40S ribosomal protein S10Zinc finger and SCAN domain-containing protein 18Serine/threonine-protein kinase WNK2Plexin-C1Tryptophan 5-hydroxylase 2Pyrroline-5-carboxylate reductaseGlycogen phosphorylase, liver formTyrosine 3-monooxygenaseAromatic-L-amino-acid decarboxylase 
+Differentially expressed proteins in PSP compared to HC calculated by SAM
+
+Serum amyloid A-1 protein
+Immunoglobulin heavy constant alpha 2 (Fragment)
+Haptoglobin
+Immunoglobulin heavy constant gamma 4 (Fragment)
+Serum amyloid P-component
+Sequestosome-1
+Osteopontin
+Annexin A1
+Protein S100-A6
+Tumor necrosis factor receptor superfamily member 16
+Transmembrane glycoprotein NMB
+Hemoglobin subunit delta
+Intercellular adhesion molecule 1
+Chitinase-3-like protein 1
+High mobility group protein HMG-I/HMG-Y
+Band 3 anion transport protein
+EMILIN-1
+Microtubule-associated protein
+Methanethiol oxidase
+Phosphate carrier protein, mitochondrial
+Calcium-binding mitochondrial carrier protein Aralar1
+ATPase family AAA domain-containing protein 1
+Heat shock 70 kDa protein 4L
+Cytochrome c oxidase subunit 5A, mitochondrial
+Mitochondrial pyruvate carrier 2
+28S ribosomal protein S2, mitochondrial
+FAST kinase domain-containing protein 4
+[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial
+Leucine-rich PPR motif-containing protein, mitochondrial
+Cytochrome b-c1 complex subunit 6, mitochondrial
+Cytochrome c oxidase subunit 1
+Cytochrome c oxidase subunit 6B1
+Calcium-dependent secretion activator 1
+Cytochrome b-c1 complex subunit 8
+Small integral membrane protein 12
+LYR motif-containing protein 1
+SRA stem-loop-interacting RNA-binding protein, mitochondrial
+Iron-sulfur cluster assembly enzyme ISCU, mitochondrial
+28S ribosomal protein S23, mitochondrial
+Asparagine synthetase [glutamine-hydrolyzing]
+Monocarboxylate transporter 4
+Kv channel-interacting protein 4
+Calcium-dependent secretion activator 1 (Fragment)
+FERM, ARHGEF and pleckstrin domain-containing protein 1
+Mammalian ependymin-related protein 1
+Metabotropic glutamate receptor 1
+Gamma-aminobutyric acid receptor subunit beta-2
+Gamma-aminobutyric acid receptor subunit alpha-1
+Apolipoprotein A-IV
+Gap junction beta-6 protein 
+
+Differentially expressed proteins in PSP compared to PD calculated by SAM (top 50) 
+Annexin A1
+Sequestosome-1
+Protein S100-A6
+Intercellular adhesion molecule 1
+Complement C1q subcomponent subunit C
+HLA class II histocompatibility antigen, DR alpha chain
+Argininosuccinate synthase
+Complement C1q subcomponent subunit B
+HLA class II histocompatibility antigen, DP alpha 1 chain
+Macrophage-capping protein
+Thymidine phosphorylase
+Protein S100-A11
+High affinity immunoglobulin gamma Fc receptor I
+Guanylate-binding protein 1
+Fructose-1,6-bisphosphatase 1
+BAI1-associated protein 3
+Matrilin-2
+EMILIN-2
+Glycogen phosphorylase, liver form
+Fermitin family homolog 3
+Protein Niban
+Microtubule-associated protein
+Long-chain fatty acid transport protein 3
+Proteasome activator complex subunit 2
+Tubulin-specific chaperone E
+Band 4.1-like protein 3
+COX assembly mitochondrial protein 2 homolog
+GTP-binding protein Di-Ras1
+Cytochrome c oxidase subunit 5A, mitochondrial
+39S ribosomal protein L12, mitochondrial
+Long-chain-fatty-acid--CoA ligase 6
+Calcium-binding mitochondrial carrier protein Aralar1
+Cytochrome c oxidase subunit 7A2, mitochondrial
+Disintegrin and metalloproteinase domain-containing protein 22
+Disintegrin and metalloproteinase domain-containing protein 23
+Cytochrome c oxidase subunit 6B1
+Cytochrome b-c1 complex subunit 8
+Cytochrome c oxidase subunit 1
+BolA-like protein 3
+GTP-binding protein Di-Ras2
+Cytochrome c oxidase subunit 6C
+Potassium voltage-gated channel subfamily A member 1
+Hyaluronan and proteoglycan link protein 4
+Adenylate cyclase type 1
+Calcium-dependent secretion activator 1 (Fragment)
+Gamma-aminobutyric acid receptor subunit beta-2
+Gamma-aminobutyric acid receptor subunit alpha-1
+Leucine-rich repeat LGI family member 2
+Gap junction beta-6 protein
+Parvalbumin alpha 
+
+Differentially expressed proteins in PD compared to HC calculated by SAM. 
+Kallikrein-6
+Sodium-coupled neutral amino acid transporter 2
+Selenoprotein P
+Activin receptor type-1
+Pyrroline-5-carboxylate reductase
+Zinc finger and SCAN domain-containing protein 18
+High affinity immunoglobulin gamma Fc receptor I
+Glycogen phosphorylase, liver form
+N-acetylglucosamine-1-phosphotransferase subunit gamma
+Plexin-C1
+SHC-transforming protein 3
+Tryptophan 5-hydroxylase 2
+High affinity immunoglobulin epsilon receptor subunit gamma
+Adipogenesis regulatory factor
+Protein FAM107A
+Aromatic-L-amino-acid decarboxylase
+Tyrosine 3-monooxygenase
+Sodium-dependent dopamine transporter 
+
+Differentially expressed proteins in PSP compared to HC calculated by bootstrap ROC analysis 
+High mobility group protein HMG-I/HMG-Y
+Sequestosome-1
+EMILIN-1
+Intercellular adhesion molecule 1
+Ras suppressor protein 1
+U6 snRNA-associated Sm-like protein LSm8
+REST corepressor 3
+U6 snRNA-associated Sm-like protein LSm4 (Fragment)
+Zinc finger CCCH domain-containing protein 18
+Microtubule-associated protein
+RNA-binding protein 8A
+Osteopontin
+Glycophorin-C
+Cytochrome b-c1 complex subunit 9
+GTP-binding protein Di-Ras1
+Metabotropic glutamate receptor 1
+Mitochondrial dicarboxylate carrier
+Metaxin-2
+Cleft lip and palate transmembrane protein 1
+Cytochrome b-c1 complex subunit 6, mitochondrial
+COX assembly mitochondrial protein 2 homolog
+28S ribosomal protein S35, mitochondrial
+Calcium-dependent secretion activator 1
+Peptidyl-tRNA hydrolase ICT1, mitochondrial
+Kv channel-interacting protein 4
+28S ribosomal protein S9, mitochondrial
+39S ribosomal protein L9, mitochondrial
+Iron-sulfur cluster assembly enzyme ISCU, mitochondrial
+Gamma-aminobutyric acid receptor subunit alpha-1
+SRA stem-loop-interacting RNA-binding protein, mitochondrial
+Heat shock 70 kDa protein 4L
+Elongation factor G, mitochondrial
+FAST kinase domain-containing protein 4
+Enoyl-[acyl-carrier-protein] reductase, mitochondrial
+39S ribosomal protein L17, mitochondrial
+Gamma-glutamyl hydrolase
+39S ribosomal protein L16, mitochondrial
+LYR motif-containing protein 1
+28S ribosomal protein S2, mitochondrial
+Calcium-dependent secretion activator 1 (Fragment)
+Gamma-aminobutyric acid receptor subunit beta-2
+Phosphate carrier protein, mitochondrial
+39S ribosomal protein L12, mitochondrial
+Leucine-rich PPR motif-containing protein, mitochondrial
+Mitochondrial pyruvate carrier 2
+Cytochrome c oxidase subunit 5A, mitochondrial
+Small integral membrane protein 12
+Mammalian ependymin-related protein 1
+ATPase family AAA domain-containing protein 1
+Cytochrome c oxidase subunit 1 
+Differentially expressed proteins in PSP compared to PD calculated by bootstrap ROC analysis (top 50)
+Fermitin family homolog 3
+High affinity immunoglobulin gamma Fc receptor I
+Sequestosome-1
+Intercellular adhesion molecule 1
+Serine/threonine-protein kinase 4
+Poly [ADP-ribose] polymerase 9
+Proteasome activator complex subunit 2
+Protein S100-A11
+Argininosuccinate synthase
+Complement C1q subcomponent subunit B
+U6 snRNA-associated Sm-like protein LSm4 (Fragment)
+Fructose-1,6-bisphosphatase 1
+Complement C1q subcomponent subunit C
+Lamin-B1
+Matrilin-2
+Long-chain fatty acid transport protein 3
+Leucine-rich repeat LGI family member 2
+COX assembly mitochondrial protein homolog
+Uncharacterized protein C6orf136 (Fragment)
+Sodium- and chloride-dependent creatine transporter 1
+Uncharacterized protein (Accession_U3KQK5)
+ATPase family AAA domain-containing protein 1
+Solute carrier family 25 member 40
+Cytochrome c oxidase subunit 7A2, mitochondrial
+Cytoglobin
+Rap1 GTPase-GDP dissociation stimulator 1
+ADP/ATP translocase 2
+Cytochrome c oxidase subunit 1
+Cytochrome b-c1 complex subunit 1, mitochondrial
+Cytochrome b-c1 complex subunit 8
+Hyaluronan and proteoglycan link protein 4
+Gamma-aminobutyric acid receptor subunit beta-2
+Mitochondrial import inner membrane translocase subunit Tim13
+ATP synthase mitochondrial F1 complex assembly factor 1
+39S ribosomal protein L12, mitochondrial
+Gamma-aminobutyric acid receptor subunit alpha-1
+Mitochondrial carrier homolog 2
+Tubulin-specific chaperone E
+Mitochondrial pyruvate carrier 2
+Cytochrome c oxidase subunit 6C
+GTP-binding protein Di-Ras2
+GTP-binding protein Di-Ras1
+Disintegrin and metalloproteinase domain-containing protein 22
+Calcium-dependent secretion activator 1 (Fragment)
+Gap junction beta-6 protein
+Cytochrome c oxidase subunit 6B1
+AFG1-like ATPase
+COX assembly mitochondrial protein 2 homolog
+Long-chain-fatty-acid--CoA ligase 6
+Calcium-binding mitochondrial carrier protein Aralar1 
+
+Differentially expressed proteins in PD compared to HC calculated bootstrap ROC analysis
+
+Adenylosuccinate lyase
+Proteasome subunit beta type-2
+FAD synthase
+GTP-binding protein SAR1b
+WD repeat and FYVE domain-containing protein 2
+Phosphatidylinositol glycan anchor biosynthesis class U protein
+Activin receptor type-1
+Proteasome subunit beta type-5
+Sodium-coupled neutral amino acid transporter 2
+Kallikrein-6
+Sestrin-1
+Tubulin-specific chaperone E
+Multiple epidermal growth factor-like domains protein 10
+Mitochondrial carrier homolog 2
+Cysteine conjugate-beta lyase cytoplasmic (Glutamine transaminase K, kyneurenine aminotransferase), isoform CRA_b
+ATP-dependent RNA helicase DDX39A
+GTP-binding protein Rit1
+Coiled-coil domain-containing protein 47
+Selenoprotein P
+Non-homologous end-joining factor 1
+Ras-related protein Rab-8A
+Ribonuclease inhibitor
+N-acylethanolamine-hydrolyzing acid amidase
+Tyrosine--tRNA ligase, cytoplasmic
+Transforming acidic coiled-coil-containing protein 1 (Fragment)
+Testican-3
+Peptidylprolyl isomerase domain and WD repeat-containing protein 1
+Phosphoglycerate mutase 1
+Sodium-dependent serotonin transporter
+High affinity immunoglobulin epsilon receptor subunit gamma
+Superoxide dismutase [Mn], mitochondrial
+SHC-transforming protein 3
+Mesoderm-specific transcript homolog protein
+Uncharacterized protein KIAA1671
+Serine/threonine-protein kinase Nek9
+Golgin subfamily A member 3
+Ubiquitin carboxyl-terminal hydrolase 11
+IgGFc-binding protein
+Inositol polyphosphate 5-phosphatase OCRL-1
+N-acetylglucosamine-1-phosphotransferase subunit gamma
+Sodium-dependent dopamine transporter
+40S ribosomal protein S10
+Zinc finger and SCAN domain-containing protein 18
+Serine/threonine-protein kinase WNK2
+Plexin-C1
+Tryptophan 5-hydroxylase 2
+Pyrroline-5-carboxylate reductase
+Glycogen phosphorylase, liver form
+Tyrosine 3-monooxygenase
+Aromatic-L-amino-acid decarboxylase 
+
+
+
+
